@@ -1,5 +1,5 @@
 # Senior 1 Graduation Project
-
+.
 ## Project Title
 Hybrid Vision–Language Approach for Concept-Based Medical Caption Generation – Concept Detection
 
